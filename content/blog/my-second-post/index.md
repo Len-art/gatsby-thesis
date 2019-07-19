@@ -1,13 +1,14 @@
 ---
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
+defaultImage: "./1.jpg"
 ---
 
 Wow! I love blogging so much already.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
+![Lightouse](./1.jpg)
+
+How about something tasty?
+([React on Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 Yeah, I didn't either.

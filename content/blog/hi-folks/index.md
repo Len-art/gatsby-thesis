@@ -2,6 +2,7 @@
 title: New Beginnings
 date: "2015-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+defaultImage: "./1.jpg"
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
@@ -26,6 +27,8 @@ view back on the skyline of her hometown _Bookmarksgrove_, the headline of
 [Alphabet Village](http://google.com) and the subline of her own road, the Line
 Lane. Pityful a rethoric question ran over her cheek, then she continued her
 way. On her way she met a copy.
+
+![Moons](./6.jpg)
 
 ### Overlaid the jeepers uselessly much excluding
 
